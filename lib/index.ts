@@ -1,1 +1,1 @@
-console.log("sample app")
+console.log("sample app");
